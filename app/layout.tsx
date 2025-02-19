@@ -10,8 +10,8 @@ const ibmPlexserif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Zemen Bank",
-  description: "Zemen Bank is a Modern banking platform for everyone",
+  title: "Amhara Bank",
+  description: "Amhara Bank is a Modern banking platform for everyone",
   icons: {
     icon: "/icons/logo.svg",
   },
